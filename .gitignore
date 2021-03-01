@@ -1,0 +1,7 @@
+/file.bin
+/file.txt
+
+deploy/*.jar
+
+target
+
